@@ -230,4 +230,4 @@ void sensorLedOff() {
 //Takk til ADAFRUIT
 // Takk til studassene <3
 
-//Takk for oss!
+//Skrevet av Ai-Nhi Hoang, Andrine Høidahl, Malin Iversen og Vilde Hvam. Takk for oss!
